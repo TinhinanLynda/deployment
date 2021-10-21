@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d58f5"/>
+      <stop offset="1" stop-color="#3b90f7"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="100%" height="100%"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="100%" height="100%" fill="rgba(184,184,184,0)"/>
+    <g id="Group_183" data-name="Group 183" transform="translate(-56 -186)">
+      <g id="Group_4" data-name="Group 4">
+        <g id="Group_3" data-name="Group 3" transform="translate(128 49)">
+           
+          <g id="blue-background-wave-1-2" data-name="blue-background-wave-1" transform="matrix(-0.946, 0.326, -0.326, -0.946, 1905.143, 913.897)">
+            <path id="Path_1-2" data-name="Path 1" d="M72.048,10.021,1013.416,0s142.093,181.795,25.052,276.991-177.041-6.4-338.843,48.718-151.989,138.9-313.787,113.852-151.979,78.779-313.79,78.779S72.048,10.021,72.048,10.021Z" transform="translate(-246.72 -289.679)" fill-rule="evenodd" opacity="0.2" fill="url(#linear-gradient)"/>
+            <path id="Path_2-2" data-name="Path 2" d="M72.048,0h941.368s162.135,261.96,0,317.074-206.075-.17-313.791,23.666S547.635,454.592,385.837,414.509,233.859,518.341,72.048,518.341,72.048,0,72.048,0Z" transform="translate(-246.72 -289.679)" fill="url(#linear-gradient)"/>
+            <path id="Path_8-2" data-name="Path 8" d="M72.048,10.021,1013.416,0s206.652,142.795,25.027,220.455S844.918,373.27,729.993,398.009,517.581,322.854,385.846,413.04s-151.987,80.249-313.8,65.218S72.048,10.021,72.048,10.021Z" transform="translate(-246.72 -289.679)" fill="#05f" fill-rule="evenodd" opacity="0.1"/>
+          </g>
+        </g>
+      </g>
+      
+    </g>
+  </g>
+</svg>
